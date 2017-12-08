@@ -1,0 +1,6 @@
+framework module CarthagePreBuild {
+  umbrella header "CarthagePreBuild.h"
+
+  export *
+  module * { export * }
+}
